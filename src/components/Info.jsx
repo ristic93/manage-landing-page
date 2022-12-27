@@ -5,8 +5,8 @@ const Info = () => {
     <section className="info">
       <div className="flex-col md:flex md:flex-row justify-between container mx-auto md:space-x-20 py-20">
         <article className="basis-1/2">
-          <h2 className="text-3xl text-center md:text-left font-bold text-primary-darkBlue">What's different about Manage?</h2>
-          <p className="py-10 opacity-60 text-center md:text-lef">
+          <h2 className="text-4xl text-center md:text-left font-bold text-primary-darkBlue">What's different about Manage?</h2>
+          <p className="py-10 opacity-60 text-center md:text-left">
             Manage provides all the functionality your team needs, without the
             complexity. Our software is tailor-made for modern digital products
             teams.
@@ -14,7 +14,7 @@ const Info = () => {
         </article>
         <article className="basis-1/2">
           <div>
-            <h3 className='before:content-["01"] before:bg-primary-brightRed before:py-2 before:px-5 before:mr-5 before:rounded-[20px] before:text-neutral-white font-bold text-primary-darkBlue text-center md:text-left'>
+            <h3 className='text-2xl before:content-["01"] before:bg-primary-brightRed before:py-2 before:px-5 before:mr-5 before:rounded-[20px] before:text-neutral-white font-bold text-primary-darkBlue text-center md:text-left'>
               Track company-wide progress
             </h3>
             <p className="py-10 opacity-60 text-center md:text-left">
@@ -24,7 +24,7 @@ const Info = () => {
             </p>
           </div>
           <div>
-            <h3 className='before:content-["02"] before:bg-primary-brightRed before:py-2 before:px-5 before:mr-5 before:rounded-[20px] before:text-neutral-white font-bold text-primary-darkBlue text-center md:text-left'>
+            <h3 className='text-2xl before:content-["02"] before:bg-primary-brightRed before:py-2 before:px-5 before:mr-5 before:rounded-[20px] before:text-neutral-white font-bold text-primary-darkBlue text-center md:text-left'>
               Advanced built-in reports
             </h3>
             <p className="py-10 opacity-60 text-center md:text-left">
@@ -34,7 +34,7 @@ const Info = () => {
             </p>
           </div>
           <div>
-            <h3 className='before:content-["03"] before:bg-primary-brightRed before:py-2 before:px-5 before:mr-5 before:rounded-[20px] before:text-neutral-white font-bold text-primary-darkBlue text-center md:text-left'>
+            <h3 className='text-2xl before:content-["03"] before:bg-primary-brightRed before:py-2 before:px-5 before:mr-5 before:rounded-[20px] before:text-neutral-white font-bold text-primary-darkBlue text-center md:text-left'>
               Everything you need in one place
             </h3>
             <p className="py-10 opacity-60 text-center md:text-left">

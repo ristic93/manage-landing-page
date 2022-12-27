@@ -6,7 +6,7 @@ import { icons } from "../constants/data";
 const Footer = () => {
   return (
     <footer className="bg-neutral-veryDarkBlue py-10">
-      <section className="container flex flex-col-reverse justify-between px-6 py-10 mx-auto space-y-8 md:flex-row md:space-y-0">
+      <section className="container flex flex-col-reverse justify-between py-10 mx-auto space-y-8 md:flex-row md:space-y-0">
         <article className="flex flex-col-reverse items-center justify-between space-y-12 md:flex-col md:space-y-0 md:items-start">
           <p className="mx-auto my-6 text-center text-neutral-white opacity-60 md:hidden">
             &copy;Copyright {new Date().getFullYear()}. All Rights Reserved

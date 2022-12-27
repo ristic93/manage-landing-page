@@ -44,7 +44,7 @@ const Testimonials = () => {
 
   return (
     <section className="flex flex-col items-center space-y-10">
-      <h2 className="text-3xl text-center font-bold py-10 text-primary-darkBlue">
+      <h2 className="text-4xl text-center font-bold py-10 text-primary-darkBlue">
         What they've said
       </h2>
       <article className="container grid grid-cols-1 space-x-4 md:grid-cols-1 xl:grid-cols-3 mx-auto">
