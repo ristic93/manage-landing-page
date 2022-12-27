@@ -1,4 +1,4 @@
-# Frontend Mentor - Solution for manage-landing-page
+# Frontend Mentor - Solution for Manage Landing Page
 
 ## [Live Preview](https://manage-landing-page93.netlify.app)
 
